@@ -1,7 +1,6 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
-    {"name":"font0","order":1,"path":"fonts/font0/font0.yy",},
     {"name":"o_keyboard_mouse_input","order":5,"path":"objects/o_keyboard_mouse_input/o_keyboard_mouse_input.yy",},
     {"name":"objController","order":1,"path":"objects/objController/objController.yy",},
     {"name":"objControllerSupport","order":3,"path":"objects/objControllerSupport/objControllerSupport.yy",},
